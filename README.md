@@ -1,2 +1,2 @@
 # eclipse
-My Eclipse  configuration for sharing it between my workplaces
+My Eclipse configuration to share it between my workplaces
